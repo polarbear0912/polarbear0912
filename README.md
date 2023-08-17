@@ -45,11 +45,9 @@ Mission-driven full stack developer with a passion for thoughtful UI design, col
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/benrobo"><img src="https://github-readme-stats.vercel.app/api?username=benrobo&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="benrobo's GitHub stats" /></a>
 
 <a href="http://www.github.com/benrobo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benrobo&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benrobo&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benrobo&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benrobo&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benrobo&theme=dracula)
